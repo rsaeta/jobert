@@ -1,0 +1,52 @@
+InstaDeep, founded in 2014, is a pioneering AI company at the forefront of innovation. With strategic offices in major cities worldwide, including London, Paris, Berlin, Tunis, Lagos, Cape Town, Boston, and San Francisco, InstaDeep collaborates with giants like Google DeepMind and prestigious educational institutions like MIT, Stanford, Oxford, UCL, and Imperial College London. We are a Google Cloud Partner and a select NVIDIA Elite Service Delivery Partner. We have been listed among notable players in AI, fast-growing companies, and Europe's 1000 fastest-growing companies in 2022 by Statista and the Financial Times. Our recent acquisition by BioNTech has further solidified our commitment to leading the industry.
+
+Join us to be a part of the AI revolution!
+
+In the BioAI department, we advance the boundaries of healthcare and medical science through a combination of biology and artificial intelligence expertise. We are expanding a portfolio of successful initiatives across drug discovery, design, and protein engineering. Notably, we are developing the next-generation vaccines and biopharmaceuticals for cancer treatment and prevention and therapy of infectious diseases. By joining us, you will contribute to this effort in collaboration with scientists, engineers and biologists from both InstaDeep and BioNTech and have the opportunity to contribute to scientific papers submitted to leading conferences and journals.
+
+Specifically, we work on the following research directions, and apply them at high scale in active production applications.
+
+RNA Science: We are pushing forward the state of the art in optimisation of RNA for multiple characteristics including expression and half life in media and in cell. We are developing advanced methods of RNA characterisation and prediction of secondary and tertiary structure.
+
+DNA Science: We are developing models of DNA chemistry to predict characteristics such as folding, binding energy and melting temperatures. We apply these models in areas such as biomolecule synthesis optimisation.
+
+Immunogenicity: We are building models to understand the mechanisms of immunogenicity in order to design personalised immunotherapies.
+
+Protein Folding: We are designing, utilising and improving the state-of-the-art protein folding models (e.g. AlphaFold 2, RFDiffusion, etc.) to investigate protein structural conformation and its distribution. These folding models are being used to understand protein functionalities, estimate protein stability, and study protein mutations and structural changes.
+
+Protein Design: We are leveraging structural modelling, protein language models, protein folding models and quality-diversity methods to perform protein design with experimental feedback from wet labs.
+
+Protein-protein Interactions: We are developing predictive models, based on molecular dynamic simulations and protein folding models, to study protein-protein interactions, dissociation kinetics, binding affinity enhancements and immune response activation.
+
+Infectious Disease Modelling: We are actively monitoring the evolution of SARS-CoV-2 using structural modelling, DNA/protein language models, and protein folding models, with a direct impact on epidemiological studies and vaccine developments.
+
+To support and extend the research capabilities of the BioAI department, the ML Software engineer will join a multifunctional team to build and enhance the next generation of protein folding platform.
+
+Responsabilities
+
+Participate in the planning, design and development of a scalable and robust protein folding application on the basis of state-of-the-art deep learning models such as AlphaFold 2.
+Write and maintain high-quality, maintainable and modular code with concise documentation and continuous integration together with research and DevOps engineers.
+Adapt machine learning and neural network algorithms and architectures to best exploit modern parallel environments (e.g. distributed clusters, multicore SMP, and GPU) on-premises and in the cloud (GCP, AWS).
+Report and present development work clearly and efficiently, both internally and externally (clients, different audiences, etc.), both verbally and in writing.
+
+Requirements
+
+Postgraduate degree in Computer Science, Mathematics or a related scientific field.
+2 years+ software engineering experience (Python, Docker, CI/CD, Linux).
+Proficiency with Git workflow, development with best coding practices.
+Experience with deploying scalable Machine Learning pipelines on one of the main cloud platform providers:GCP VertexAI, AWS Sagemaker,AzureAI.
+Experience using deep learning frameworks such as PyTorch and Jax.
+Software engineering experience demonstrated via previous work experience, internships, contributions to open source projects, or coding competitions.
+Excellent communication skills in English.
+Appropriate work permit for the considered location.
+
+Desirable
+
+Experience with developing and deploying scalable web applications.
+Experience with provisioning and managing infrastructure optimised for ML workflows through Infrastructure as Code in the Cloud and On-Premise.
+
+Our commitment to our people
+
+We empower individuals to celebrate their uniqueness here at InstaDeep. Our team comes from all walks of life, and we’re proud to continue encouraging and supporting applicants from underrepresented groups across the globe. Our commitment to creating an authentic environment comes from our ability to learn and grow from our diversity, and how better to experience this than by joining our team? We operate on a hybrid work model with guidance to work at the office at least 2 to 3 days per week to encourage close collaboration and innovation. We are continuing to review the situation with the well-being of InstaDeepers at the forefront of our minds.
+
+Right to work: Please note that you will require the legal right to work in the location you are applying for.
